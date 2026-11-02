@@ -1,0 +1,10 @@
+*.pem
+*.key
+.env
+.env.*
+vault-password.txt
+.vault_pass
+.retry
+__pycache__/
+.DS_Store
+.vscode/
